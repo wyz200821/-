@@ -1,2 +1,4 @@
 emmmmm
 万事开头难
+11月21日
+先用html复刻一个galagame吧
